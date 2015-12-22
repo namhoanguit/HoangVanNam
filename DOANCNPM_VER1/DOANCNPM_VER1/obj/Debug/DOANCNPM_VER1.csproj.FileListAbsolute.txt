@@ -1,0 +1,200 @@
+D:\hoc\Học Kỳ 6\Maintain\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\bin\Debug\DOANCNPM_VER1.exe.config
+D:\hoc\Học Kỳ 6\Maintain\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\bin\Debug\DOANCNPM_VER1.exe
+D:\hoc\Học Kỳ 6\Maintain\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\bin\Debug\DOANCNPM_VER1.pdb
+D:\hoc\Học Kỳ 6\Maintain\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.frmBaoCaoCN.resources
+D:\hoc\Học Kỳ 6\Maintain\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.frmBaoCaoDS.resources
+D:\hoc\Học Kỳ 6\Maintain\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmDangNhap.resources
+D:\hoc\Học Kỳ 6\Maintain\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmDonViTinh2.resources
+D:\hoc\Học Kỳ 6\Maintain\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmHoSoDaiLy1.resources
+D:\hoc\Học Kỳ 6\Maintain\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmLoaiDaiLy2.resources
+D:\hoc\Học Kỳ 6\Maintain\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmMatHang2.resources
+D:\hoc\Học Kỳ 6\Maintain\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmPhieuNhapHang.resources
+D:\hoc\Học Kỳ 6\Maintain\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmPhieuNhapHang2.resources
+D:\hoc\Học Kỳ 6\Maintain\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmPhieuThuTien_1.resources
+D:\hoc\Học Kỳ 6\Maintain\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmPhieuXuatHang2.resources
+D:\hoc\Học Kỳ 6\Maintain\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmQuan2.resources
+D:\hoc\Học Kỳ 6\Maintain\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmThongKeDaiLy.resources
+D:\hoc\Học Kỳ 6\Maintain\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmThongKeSanPham.resources
+D:\hoc\Học Kỳ 6\Maintain\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmTraCuuSanPham.resources
+D:\hoc\Học Kỳ 6\Maintain\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.frmMain.resources
+D:\hoc\Học Kỳ 6\Maintain\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.Properties.Resources.resources
+D:\hoc\Học Kỳ 6\Maintain\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.csproj.GenerateResource.Cache
+D:\hoc\Học Kỳ 6\Maintain\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.exe
+D:\hoc\Học Kỳ 6\Maintain\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.pdb
+D:\hoc\Học Kỳ 6\Maintain\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.csprojResolveAssemblyReference.cache
+D:\hoc\Học Kỳ 6\Maintain\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmGioiThieu.resources
+D:\hoc\Học Kỳ 6\Maintain\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmMoTa.resources
+D:\hoc\Học Kỳ 6\Maintain\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmDoiMK.resources
+D:\hoc\Học Kỳ 6\Maintain\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmThemTaiKhoan.resources
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\bin\Debug\DOANCNPM_VER1.exe.config
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.exe
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.pdb
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\bin\Debug\DOANCNPM_VER1.exe
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\bin\Debug\DOANCNPM_VER1.pdb
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.csprojResolveAssemblyReference.cache
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.frmBaoCaoCN.resources
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.frmBaoCaoDS.resources
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmDangNhap.resources
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmDoiMK.resources
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmDonViTinh2.resources
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmGioiThieu.resources
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmHoSoDaiLy1.resources
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmLoaiDaiLy2.resources
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmMatHang2.resources
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmMoTa.resources
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmPhieuNhapHang.resources
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmPhieuNhapHang2.resources
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmPhieuThuTien_1.resources
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmPhieuXuatHang2.resources
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmQuan2.resources
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmThongKeDaiLy.resources
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmThongKeSanPham.resources
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmTraCuuSanPham.resources
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.frmMain.resources
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmThemTaiKhoan.resources
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.Properties.Resources.resources
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.csproj.GenerateResource.Cache
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\bin\Debug\DOANCNPM_VER1.exe.config
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.exe
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.pdb
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\bin\Debug\DOANCNPM_VER1.exe
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\bin\Debug\DOANCNPM_VER1.pdb
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.csprojResolveAssemblyReference.cache
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmDangNhap.resources
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmDoiMK.resources
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmDonViTinh2.resources
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmGioiThieu.resources
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmHoSoDaiLy1.resources
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmLoaiDaiLy2.resources
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmMatHang2.resources
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmMoTa.resources
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmPhieuNhapHang.resources
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmPhieuNhapHang2.resources
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmPhieuThuTien_1.resources
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmPhieuXuatHang2.resources
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmQuan2.resources
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmThongKeDaiLy.resources
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmThongKeSanPham.resources
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmTraCuuSanPham.resources
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.frmMain.resources
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmThemTaiKhoan.resources
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.Properties.Resources.resources
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.csproj.GenerateResource.Cache
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmQuyDinh1.resources
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmQuyDinh2.resources
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmQuyDinh3.resources
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmGiupDo.resources
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmQuyDinh.resources
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmQuyDinh1.resources
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmQuyDinh2.resources
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmQuyDinh3.resources
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmGiupDo.resources
+E:\Hoc ky 6\Phát triển, vận hành, bảo trì phần mềm\SVN\New folder\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmQuyDinh.resources
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmBaoCaoCNReport.resources
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\RdlCompile.cache
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\RdlCompile.compiled
+D:\hoc\Học Kỳ 6\Maintain\Lamodayne\DOANCNPM_VER3\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmBaoCaoDSReport.resources
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\bin\Debug\DOANCNPM_VER1.exe.config
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.exe
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.pdb
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\bin\Debug\DOANCNPM_VER1.exe
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\bin\Debug\DOANCNPM_VER1.pdb
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.csprojResolveAssemblyReference.cache
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmBaoCaoCNReport.resources
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmBaoCaoDSReport.resources
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmDangNhap.resources
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmDoiMK.resources
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmDonViTinh2.resources
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmGioiThieu.resources
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmHoSoDaiLy1.resources
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmLoaiDaiLy2.resources
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmMatHang2.resources
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmMoTa.resources
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmPhieuNhapHang.resources
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmPhieuNhapHang2.resources
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmPhieuThuTien_1.resources
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmPhieuXuatHang2.resources
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmQuan2.resources
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmQuyDinh1.resources
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmQuyDinh2.resources
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmQuyDinh3.resources
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmThongKeDaiLy.resources
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmThongKeSanPham.resources
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmTraCuuSanPham.resources
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmGiupDo.resources
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.frmMain.resources
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmThemTaiKhoan.resources
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmQuyDinh.resources
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.Properties.Resources.resources
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.csproj.GenerateResource.Cache
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\RdlCompile.cache
+C:\Users\DUYTHANH\Desktop\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\RdlCompile.compiled
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\bin\Debug\DOANCNPM_VER1.exe
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\bin\Debug\DOANCNPM_VER1.exe.config
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmBaoCaoCNReport.resources
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmBaoCaoDSReport.resources
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmDangNhap.resources
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmDoiMK.resources
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmDonViTinh2.resources
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmGioiThieu.resources
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmHoSoDaiLy1.resources
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmLoaiDaiLy2.resources
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmMatHang2.resources
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmMoTa.resources
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmPhieuNhapHang.resources
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmPhieuNhapHang2.resources
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmPhieuThuTien_1.resources
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmPhieuXuatHang2.resources
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmQuan2.resources
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmQuyDinh1.resources
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmQuyDinh2.resources
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmQuyDinh3.resources
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmThongKeDaiLy.resources
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmThongKeSanPham.resources
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmTraCuuSanPham.resources
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmGiupDo.resources
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.frmMain.resources
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmThemTaiKhoan.resources
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmQuyDinh.resources
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.Properties.Resources.resources
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.csproj.GenerateResource.Cache
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\RdlCompile.cache
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\RdlCompile.compiled
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.exe
+E:\Maintenance\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.pdb
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\bin\Debug\DOANCNPM_VER1.exe.config
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.exe
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.pdb
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.csprojResolveAssemblyReference.cache
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmDangNhap.resources
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmDoiMK.resources
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmDonViTinh2.resources
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmGioiThieu.resources
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmHoSoDaiLy1.resources
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmLoaiDaiLy2.resources
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmMatHang2.resources
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmMoTa.resources
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmPhieuNhapHang.resources
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmPhieuNhapHang2.resources
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmPhieuThuTien_1.resources
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmPhieuXuatHang2.resources
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmQuan2.resources
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmQuyDinh1.resources
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmQuyDinh2.resources
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmQuyDinh3.resources
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmThongKeDaiLy.resources
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmThongKeSanPham.resources
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmTraCuuSanPham.resources
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmGiupDo.resources
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmThemTaiKhoan.resources
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmQuyDinh.resources
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.Properties.Resources.resources
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.csproj.GenerateResource.Cache
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\bin\Debug\DOANCNPM_VER1.exe
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\bin\Debug\DOANCNPM_VER1.pdb
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.exe.licenses
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\RdlCompile.cache
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\RdlCompile.compiled
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmBaoCaoCN.resources
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.frmBaoCaoDS.resources
+D:\Học\QuanLyDaiLy\DOANCNPM_VER1\DOANCNPM_VER1\obj\Debug\DOANCNPM_VER1.GUI.GUI_MAIN.frmMain.resources
